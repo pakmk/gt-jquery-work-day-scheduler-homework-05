@@ -19,7 +19,7 @@ Work Day Scheduler Website using jQuery. It is designed to meet the criteria for
 
 ## Usage
 
-[Deployed Work Day Scheduler Website](https://pakmk.github.io/gt-api-code-quiz-homework-04/)
+[Deployed Work Day Scheduler Website](https://pakmk.github.io/gt-jquery-work-day-scheduler-homework-05/)
 
 ![Work Day Scheduler Website](./Assets/05-third-party-apis-homework-demo.gif)
 
